@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre estre proyecto
+title: Sobre este proyecto
 subtitle: o lo que puede ser
 ---
 
