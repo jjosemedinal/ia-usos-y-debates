@@ -1,16 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Sobre estre proyecto
+subtitle: o lo que puede ser
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Este es el intento de hacer una página web con Beautiful Jekyll para la clase de IA: Usos y Debates en Ciencias Sociales de la Facultad de Ciencias Sociales y Humanas de la Universidad de Antioquia
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Más texto
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+No se que más decir xd, esto es una prueba
