@@ -20,11 +20,10 @@ author: "Estudiantes de la Universidad de Antioquia"
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Sobre nosotros: "aboutme"
+  Artículos de estudiantes:
+    - Artículo 1: https://www.youtube.com/watch?v=QDia3e12czc
+    - Mecanismos de Participación e Influencia de Actores Privados en la Agenda Pública de Inteligencia Artificial en Colombia: "mecanismos_de_participaci_n_e_influencia_en_la_agenda_p_blica_de_ia_en_colombia"
 
 ################
 # --- Logo --- #
